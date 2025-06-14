@@ -43,7 +43,7 @@ Geo-spatial Distribution
 **✅ Conclusion**     
 This Excel dashboard demonstrates the power of spreadsheet-based visual analytics for restaurant industry data. With interactive filtering and clear visuals, it empowers stakeholders to identify high-performing markets, understand customer preferences, and plan business strategies effectively — all within Excel’s familiar interface.     
 
-![Excel-Dashboard](Excel_Dashboard_1.png)  
+![Excel-Dashboard](Excel_Dashboard.png)  
 
 
 
